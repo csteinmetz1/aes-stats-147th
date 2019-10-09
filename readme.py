@@ -4,11 +4,11 @@ def format_paper_data(stats):
 
 	papers_text = """
 	## Overall statistics 
-	
+
 	Total number of accepted papers: {0:0d}<br/>
 	Total number of affiliations: {1:0d}<br/>
 	Total number of subjects: {2:0d}<br/>
-	Total number of unqiue abstract words: {3:0d}<br/>
+	Total number of unique abstract words: {3:0d}<br/>
 
 	### Top Authors
 	Number of papers in which each individual is listed an author.
@@ -16,17 +16,17 @@ def format_paper_data(stats):
 	![authors](img/paper_authors.svg) 
 
 	### Top Affiliations
-	Number of papers including each affiliation (a paper may have multiple affiliations).
+	Number of papers including each affiliation (an author may have multiple affiliations).
 
 	![affiliations](img/paper_affiliations.svg) 
 
 	### Top Subjects
-	Total number of papers with tagged with each of the provided subjects.
+	Total number of papers tagged with one of the provided subjects.
 
 	![subjects](img/paper_subjects.svg) 
 
 	### Top Abstract Words
-	Most commonly occuring words with paper abstracts. 
+	Most commonly occurring words within paper abstracts. 
 
 	![authors](img/abstract_words.svg) 
 	""".format(stats['papers'], len(stats['affiliations']),
