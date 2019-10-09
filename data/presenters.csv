@@ -1,0 +1,753 @@
+,last_name,first_name,affiliation_names,affiliation_locations
+0,,Kimbra,['None'],['None']
+1,Abe,Koji,['Akita Prefectural University'],"['Yurihonjo Akita, Japan']"
+2,Abel,Jonathan,['Stanford University'],"['Stanford, CA, USA']"
+3,Abramson,Zach,['YouTooCanWoo'],['None']
+4,Ackerman,Kaylie,['Harvard University'],"['Cambridge, MA, USA']"
+5,Agnello,Anthony,['Eventide Inc.'],"['Little Ferry, NJ, USA']"
+6,Agrawal,Sarvesh,"['Bang & Olufsen a/s', 'Department of Photonics Engineering, Technical University of Denmark']","['Struer, Denmark', 'None']"
+7,Agus,Trevor,['Queens University Belfast'],"['Belfast, UK']"
+8,Aichinger,Thomas,['scopeaudio'],['Austria']
+9,Ajemian,Ronald,['Owl Fiber Optics'],"['Flushing, NY, USA']"
+10,Albergo,Mark,['None'],['None']
+11,Alexander,Prince,['Berklee College of Music'],"['Boston, MA, USA']"
+12,Altinsoy,M.,['TU Dresden'],"['Dresden, Germany']"
+13,Amaya,Nestor,['Ross Video / COVELOZ Technologies'],"['Ottawa, ON, Canada']"
+14,Ammermann,Tom,['New Audio Technology GmbH'],"['Hamburg, Germany']"
+15,Anderson,David,['University of Pittsburgh'],"['Pittsburgh, PA, USA']"
+16,Anderson,Jamie,['Rational Acoustics LLC'],"['Woodstock, CT, USA']"
+17,Anemüller,Carlotta,['International Audio Laboratories Erlangen'],"['Erlangen, Germany']"
+18,Austin,Abhita,['Audio Engineer-Producer and Founder of The Creator’s Suite'],['None']
+19,Avila Brothers,IZ,['Avila Brothers'],['None']
+20,Ayan,Adam,['Gateway Mastering Studios'],"['Portland, ME USA']"
+21,Babbitt,Mike,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+22,Bærentsen,Klaus,['Aarhus University'],"['Aarhus, Denmark']"
+23,Bagley,Jason,['Art+Logic'],"['Pasadena, CA, USA']"
+24,Balding,Jeff,['NARAS P&E Wing'],['None']
+25,Banka,Ritesh,['Samsung Research America'],['USA']
+26,Banks,Joy,['CLIR'],['None']
+27,Barak,Ohad,['Mentor Graphics'],"['Mountain View, CA, USA']"
+28,Barber,David,"['Juniper Post, Inc.']","['Burbank, CA, USA']"
+29,Barnes,Matt,['Australian National University'],"['Canberra, Australia']"
+30,Barthet,Mathieu,['Queen Mary University of London'],"['London, UK']"
+31,Barton,Stephen,"['Respawn Entertainment/EA', 'Afterlight Inc.']","['Los Angeles, CA, USA', 'Los Angeles, CA, USA']"
+32,Baruch,Katarzyna,['Gorycki&Sznyterman Sp. z o.o.'],"['Cracow, Poland']"
+33,Bastyr,Kevin,['Harman International'],"['Novi, MI, USA']"
+34,Baxter,Dennis,['Dennis Baxter Sound'],"['Gainesville, GA, USA']"
+35,Beauchamp,James,['Univ. of Illinois at Urbana-Champaign'],"['Urbana, IL, USA']"
+36,Beauchemin,Joseph,['Analog Devices'],['None']
+37,Bech,Søren,"['Bang & Olufsen a/s', 'Aalborg University']","['Struer, Denmark', 'Aalborg, Denmark']"
+38,Beck,Thavius,['None'],['None']
+39,Beer,Daniel,['Fraunhofer Institute for Digital Media Technology IDMT'],"['Ilmenau, Germany']"
+40,Beguerie,Carli,['Studio Instrument Rentals/Mastering Boutique'],"['New York, NY, USA']"
+41,Bell,Tom,"['Bowers & Wilkins', 'University of Southampton']","['Southwater, West Sussex, UK', 'Southampton, Hampshire, UK']"
+42,Bender,Lon,['The Formosa Group'],"['Los Angeles, CA, USA']"
+43,Bennett,Samantha,['Australian National University'],"['Canberra, Australia']"
+44,Bennington,Justin,['Belmont University'],"['Nashville, TN, USA']"
+45,Berg,Jan,['Luleå University of Technology'],"['Piteå, Sweden']"
+46,Berge,Svein,['Harpex Ltd'],"['Berlin, Germany']"
+47,Berkow,Sam,['SIA Acoustics'],"['Los Angeles, CA, USA']"
+48,Berkowitz,Steve,['Award Winning Producer'],['None']
+49,Berryman,Jeff,['OCA Alliance'],['None']
+50,Bettarelli,Ferruccio,['Leaff Engineering'],"['Osimo, Italy']"
+51,Beyer,Lucas,['Leibniz Universität Hannover'],"['Hannover, Germany']"
+52,Beyer,Tom,['New York University'],"['New York, NY, USA']"
+53,Bezzola,Andri,['Samsung Research America'],['USA']
+54,Bharitkar,Sunil,"['HP Labs., Inc.']","['San Francisco, CA, USA']"
+55,Bialik,David,['Entercom.com'],"['New York, NY, USA']"
+56,Bierylo,Michael,['Berklee College of Music'],"['Brookline, MA, USA']"
+57,Bitner,Jason,['Traffic Entertainment Group'],"['Somerville, MA, USA']"
+58,Bjørnskov,Anders,['ICEpower'],"['Søborg, Denmark']"
+59,Blake,Tchad,['Real World Studios'],['UK']
+60,Blaze,Just,"['Jay-Z, Kanye West']",['None']
+61,Bleidt,Robert,['Fraunhofer USA Digital Media Technologies'],"['San Jose, CA, USA']"
+62,Blum,Alan,['École Nationale Supérieure Louis Lumière'],"['Saint-Denis, France']"
+63,Bock,Stefan,['msm-studios GmbH'],"['Munich, Germany']"
+64,Bocko,Mark,['University of Rochester'],"['Rochester, NY, USA']"
+65,Boeckmann,Kristi,['Facebook'],"['Menlo Park, CA, USA']"
+66,Bol,Toby,['University of Lethbridge'],"['Lethbridge, Canada']"
+67,Bolas,Niko,"['The Surf Shack Studio', 'Germano Studio']","['USA', 'USA']"
+68,Boot,Tim,"['Global Brand Strategist, Meyer Sound']","['Berkeley, CA, USA']"
+69,Born,John,"['Senior Product Manager, Shure Inc.']","['Niles, IL, USA']"
+70,Borujow,Ariel,['Westward Music Group Inc.'],['None']
+71,Botkin-Levy,Elena,['Women’s Audio Mission'],"['San Francisco, CA, USA']"
+72,Bowles,David,['Swineshead Productions LLC'],"['Berkeley, CA, USA']"
+73,Braasch,Jonas,['Rensselear Polytechnic Institute'],"['Troy, NY, USA']"
+74,Brandmeyer,Alex,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+75,Brathwaite,Leslie,['None'],['None']
+76,Brauer,Michael,['Michael Brauer'],"['New York, NY, USA']"
+77,Bravo-Moncayo,Luis,['Universidad de Las Américas'],"['Quito, Ecuador']"
+78,Brawata,Krzysztof,['Gorycki&Sznyterman Sp. z o.o.'],"['Cracow, Poland']"
+79,Brenner,Corinne,['New York University'],"['New York, NY, USA']"
+80,Bresler,Zachary,['University of Agder'],"['Kristiansand S, Vest-Agder, Norway']"
+81,Briand,Manuel,['AT&T'],"['El Segundo, CA, USA']"
+82,Bridgett,Rob,['Eidos Montreal'],"['Montreal, Canada']"
+83,Brixen,Eddy,"['EBB-consult', 'DPA Microphones']","['Smørum, Denmark', 'Allerød, Denmark']"
+84,Brooke,Tony,"['DDEX, Pandora, Recording Academy']","['San Francisco, CA, USA']"
+85,Brown,Phil,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+86,Brunet,Pascal,"['Samsung Research America', 'Audio Group']","['USA', 'Digital Media Solutions']"
+87,Brunner,Mark,['Shure Incorporated'],"['Niles, IL USA']"
+88,Bruschi,Valeria,['Univeresità Politecnica delle Marche'],"['Ancona, Italy']"
+89,Bucano,Rocky,['Universal Hip-Hop Museum'],['None']
+90,Buffington,Mike,['None'],['None']
+91,Bulla,Wesley,['Belmont University'],"['Nashville, TN, USA']"
+92,Bunkheila,Gabriele,['MathWorks'],"['Madrid, Spain']"
+93,Burdiel Pérez,Elena,['Fraunhofer IIS'],"['Erlangen, Germany']"
+94,Burgess,Scott,['University of Colorado Denver'],"['Denver, CO, USA']"
+95,Busenitz,John,['Bose Corporation'],"['Framingham, MA, USA']"
+96,Butler,Andy,['PBS'],['None']
+97,Byers,Rob,['Minnesota Public Radio | American Public Media'],"['Minneapolis, MN, USA']"
+98,Byrd,John,['Gigantic Software'],"['Santa Ana, CA, USA']"
+99,Calle Benitez,Juan,['THX Ltd.'],"['San Francisco, CA, USA']"
+100,Camerer,Florian,"['ORF', 'EBU']","['Austrian TV', 'European Broadcasting Union']"
+101,Canalis,Ianina,['National University of Lanús'],"['Buenos Aires, Argentina']"
+102,Capeless,Richard,['Deep Groove Mono'],"['New York, NY, USA']"
+103,Cappellino,Neal,['Multiple Grammy-winning Engineer'],['None']
+104,Caracciolo,John,['JVC Media LLC'],"['Ronkonkoma, NY, USA']"
+105,Card,Arlen,['Utah Valley University'],"['Orem, UT, USA']"
+106,Cardenas,William,['ORA Graphine Audio Inc.'],"['Montreal, Quebec, Canada']"
+107,Carroll,Tim,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+108,Case,Alex,['University of Massachusetts Lowell'],"['Lowell, MA, USA']"
+109,Cecchi,Stefania,['Universitá Politecnica della Marche'],"['Ancona, Italy']"
+110,Celestinos,Adrian,['Samsung Research America'],"['Valencia, CA, USA']"
+111,Chamard,Jean-Christophe,['PSA Group'],"['Rueil-Malmaison, France']"
+112,Chambers-Moranz,Ryland,['University of Lethbridge'],"['Lethbridge, AB, Canada']"
+113,Chamblee,Lisa,['None'],['None']
+114,Changenet,Frédéric,['Radio France'],"['Paris, France']"
+115,Charlesworth,Roger,['DTV Audio Group'],"['New York, NY, USA']"
+116,Chau,Kevin,['Hong Kong University of Science and Technology'],"['Clean Water Bay, Hong Kong']"
+117,Chen,Rui,['Nanjing University'],"['Nanjing, China']"
+118,Chen,Yijia,['Hong Kong University of Science and Technology'],"['Clean Water Bay, Hong Kong']"
+119,Chen,Yunda,['Guangzhou University'],"['Guangzhou, China']"
+120,Cheng,Linjuan,"['Institute of Acoustics, Chinese Academy of Sciences']","['Beijing, China']"
+121,Chervony,Justin,['University of Miami'],['Frost School of Music']
+122,Cheshire,Matthew,['Birmingham City University'],"['Birmingham, UK']"
+123,Chew,Elaine,['CNRS-UMR9912/STMS'],['None']
+124,Chiccarelli,Joe,"['Producer, mixer, engineer']","['Boston, MA, USA']"
+125,Chisari,Letizia,['Contralto Audio srl'],"['Casoli, Italy']"
+126,Chojnacki,Bartlomiej,"['AGH University of Science and Technology', 'Mega-Acoustic']","['Cracow, Poland', 'Kepno, Poland']"
+127,Christensen,Theis,['ICEpower'],"['Søborg, Denmark']"
+128,Ciaudelli,Joe,['Sennheiser'],"['Old Lyme, CT USA']"
+129,Ciletti,Eddie,"['Manhattan Sound Technicians, Inc.']","['West Saint Paul, MN, USA']"
+130,Cipriano,Renato,['Walters Storyk Design Group'],"['Belo Horizonte, Brazil']"
+131,Clearmountain,Bob,['Mix This!'],"['Pacific Palisades, CA, USA']"
+132,Cohen,Jeff,['SMPTE NY Section Chair'],['None']
+133,Cohen,Reuben,['Lurssen Mastering'],"['Burbank, CA, USA']"
+134,Colburn,Benjamin,['ARiA Acoustics'],"['Washington, DC, USA']"
+135,Coleman,Philip,['University of Surrey'],"['Guildford, Surrey, UK']"
+136,Colletti,Justin,['None'],['None']
+137,Collier,Cosette,['Middle Tennessee State Univ.'],"['Murfreesboro, TN, USA']"
+138,Colonel,Joseph,['Queen Mary University of London'],"['London, UK']"
+139,Corbett,Ian,"['Kansas City Kansas Community College', 'off-beat-open-hats recording & sound reinforcement']","['Kansas City, KS, USA', 'None']"
+140,Corey,Jason,['University of Michigan'],"['Ann Arbor, MI, USA']"
+141,Corteel,Etienne,['L-Acoustics'],"['Marcoussis, France']"
+142,Costantini,Giacomo,['University of Southampton'],"['Southampton, UK']"
+143,Craig,Gil,"['Western Audio Engineering Ltd.', 'Auckland']","['Wellington, New Zealand', 'None']"
+144,Crum,Poppy,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+145,Curtin,Owen,"['Audio Builders Workshop', 'Bridge Sound and Stage']","['Lexington, MA, USA', 'Cambridge, MA, USA']"
+146,Cuscuna,Michael,['Mosaic Records'],['None']
+147,Dack,Connor,['Flat Earth Inc.'],"['Bozeman, MT, USA']"
+148,Dahlbom,David,['Rensselaer Polytechnic Institute'],"['Troy, NY, USA']"
+149,D'Antonio,Peter,['Walters Storyk Design Group'],['None']
+150,Darcy,Dan,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+151,Das,Orchisama,['Center for Computer Research in Music and Acoustics'],['None']
+152,Datta,Jayant,['Audio Precision'],"['Beaverton, OR, USA']"
+153,Davies,Rhys,['BBC Studios'],"['Cardiff, Wales, UK']"
+154,Davis,Fela,['Christian McBride'],"['Ft. Lee, NJ']"
+155,Davis,Tyler,['Flat Earth Inc.'],"['Bozeman, MT, USA']"
+156,De Oliveira,Rivanaldo,"['Qualcomm Technologies, Inc.']","['San Diego, CA, USA']"
+157,Deb,Sayon,['Consumer Technology Association'],"['Arlington, VA, USA']"
+158,Delcourt,Kevin,"['École Nationale Supérieure Louis Lumière', 'Sorbonne Université, Paris']","['Saint-Denis, France', 'Paris, France']"
+159,Delgado,Pablo,"['International Audio Laboratories Erlangen', 'Fraunhofer Institute for Integrated Circuits IIS']","['Erlangen, Germany', 'Erlangen, Germany']"
+160,DeLore,John,"['Chief Engineer, Stitcher']",['None']
+161,Dembeck,Dennis,"['New York University', 'Flavorlab']","['New York, NY, USA', 'None']"
+162,DeNio,Ien,['None'],['None']
+163,Detweiler,Jeff,['XPERI Corporation/HD Radio'],"['Columbia, Maryland, USA']"
+164,DeVane,Charlie,"['Mathworks', 'University of Massachusetts Lowell']","['Natick, MA, USA', 'Lowell, MA, USA']"
+165,Devantier,Allan,"['Samsung Research America, Audio Lab']","['Valencia, CA, USA']"
+166,DG ,,['None'],['None']
+167,Di Cola,Mario,['Contralto Audio srl'],"['Casoli, Italy']"
+168,Diaz,Cedric,"['Senior Sound Designer, People Can Fly']","['New York, NY, USA']"
+169,Dick,Sascha,"['International Audio Laboratories Erlangen, a joint institution of Universität Erlangen-Nürnberg and Fraunhofer IIS', 'Fraunhofer Institute for Integrated Circuits IIS']","['Erlangen, Germany', 'Erlangen, Germany']"
+170,Dieterle,Hannes,['SCHOEPS Mikrofone GmbH'],"['Karlsruhe, Germany']"
+171,DiPasquale,Kelley,"['SUNY Potsdam, Crane School of Music']","['Potsdam, NY, USA']"
+172,DiPasquale,Vincent,['University of Colorado Denver'],"['Denver, CO, USA']"
+173,Disch,Sascha,['Fraunhofer IIS'],"['Erlangen, Germany']"
+174,Dobberteen,Buddy,['None'],['None']
+175,Dobson,Alexander,['McGill University'],"['Montreal, QC, Canada']"
+176,Dodd,Mark,['Celestion'],"['Woodbridge, Suffolk, UK']"
+177,Doken,Serhad,['Verizon'],['None']
+178,Dong,Hao,['Nanjing University'],"['Nanjing, China']"
+179,Dopson,Larrance,['None'],['None']
+180,Douglass,Jimmy,"['Engineer, producer']",['USA']
+181,Dove,Steve,['Wheatstone'],['None']
+182,Drioli,Axel,['Philharmonia Orchestra'],"['London, UK']"
+183,Droney,Maureen,['The Recording Academy'],"['Los Angeles, CA, USA']"
+184,Dudderidge,Phil,"['Executive Chariman, Focusrite PLC']","['High Wycombe, Bucks, UK']"
+185,Dugan,Jim,['JetWave Wireless'],['None']
+186,Dunker,Thomas,['None'],['None']
+187,Dyster,Martin,['The Telos Alliance'],"['Cleveland, OH USA']"
+188,Earnshaw,Chris,['University of York'],"['York, UK']"
+189,Edler,Bernd,"['Friedrich Alexander University', 'Fraunhofer IIS']","['Erlangen-Nürnberg, Germany', 'Erlangen, Germany']"
+190,Ehsan,Muhammad,['University of Central Punjab'],"['Lahore, Pakistan']"
+191,Eley,Nolan,['New York University'],"['New York, NY, USA']"
+192,Elko,Gary,['mh acoustics'],"['Summit, NJ  USA']"
+193,Elliot-Brown,Judy,"['Walters Storyk Design Group', 'Rocket Science']","['Highland, NY, USA', 'Surprise, NY, USA']"
+194,Elmosnino,Stephane,"['University of Technology Sydney', 'SAE Institute']","['Sydney, New South Wales, Australia', 'Brisbane, Queensland, Australia']"
+195,Escobar,John,['Berklee College of Music'],"['Boston, MA, USA']"
+196,Escobedo,Ben,"['Shure Market Development & Michael Mason, President of CP Communications']",['None']
+197,Ethier,Mark,"['CEO, iZotope']","['Cambridge, MA, USA']"
+198,Evans,Christopher,['The Benedum Center'],"['Pittsburgh, PA, USA']"
+199,Faces,Manny,['The Center for Hip-Hop Advocacy'],"['Newark, NJ, USA']"
+200,Factor,Richard,['Eventide Inc.'],"['Little Ferry, NJ, USA']"
+201,Faller,Christof,"['Illusonic GmbH', 'EPFL']","['Uster, Zürich, Switzerland', 'Lausanne, Switzerland']"
+202,Farrey,John,['None'],['None']
+203,Fauntleroy,James,['None'],['None']
+204,Favrot,Alexis,['Illusonic GmbH'],"['Uster, Switzerland']"
+205,Fazi,Filippo,['University of Southampton'],"['Southampton, Hampshire, UK']"
+206,Fejzo,Zoran,['DTS/Xperi Corp.'],"['Calabasas, CA, USA']"
+207,Feldmar,Emeric,['WGBH'],['None']
+208,Feng,Tao,['Harman International'],"['Novi, MI, USA']"
+209,Ferrisi,Dan,['Sound & Communications'],"['Port Washington, NY, USA']"
+210,Fielder,Louis,['Retired'],"['Millbrae, CA, USA']"
+211,Fieser,Brian,['Gearbox Software'],['None']
+212,Filipetti,Frank,['The Living Room'],"['New York, NY, USA']"
+213,Flangan,Patrick,['THX Ltd.'],['None']
+214,Fleischman,Tom,['Soundtrack Film & Television'],"['New York, NY, USA']"
+215,Foley,Joe,['Capital City Sound'],['None']
+216,Forchhammer,Søren,['Technical University of Denmark'],"['Lyngby, Denmark']"
+217,Foti,Frank,['The Telos Alliance'],"['Cleveland, Ohio, USA']"
+218,Fox,Benjamin,['Belmont University'],"['Nashville, TN, USA']"
+219,Franck,Andreas,['University of Southampton'],"['Southampton, Hampshire, UK']"
+220,Francombe,Jon,['BBC Research and Development'],"['Salford, UK']"
+221,Friedrich,Rob,['Library of Congress'],['None']
+222,Fukuda,Yuki,['Hiroshima City University'],"['Hiroshima-shi, Japan']"
+223,Fuston,Lynn,['Sweetwater'],"['Fort Wayne, IN, USA']"
+224,Fybush,Scott,['Northeast Radio Watch'],['None']
+225,Gargel,Mauricio,['Mauricio Gargel Audio Mastering'],"['Sao Paulo, SP. Brazil']"
+226,Garzón-Pico,Christiam,['Universidad de Las Américas'],"['Quito, Ecuador']"
+227,Gaskell,Robert-Eric,['McGill University'],"['Montreal, QC, Canada']"
+228,Gaston-Bird,Leslie,"['Mix Messiah Productions', 'Audio Engineering Society']","['Brighton, UK', 'London, UK']"
+229,Gates,Syreeta,['None'],['None']
+230,Gazengel,Bruno,['Université du Maine'],"['Le Mans Cedex 9, France']"
+231,Geluso,Paul,['New York University'],"['New York, NY, USA']"
+232,Geng,Xianzheng,['Hong Kong University of Science and Technology'],"['Clean Water Bay, Hong Kong']"
+233,Genovese,Andrea,['New York University'],"['New York, NY, USA']"
+234,Gerbet,Jonathan,['Klippel GmbH'],"['Dresden, Germany']"
+235,Gervino,Tony,['None'],['None']
+236,Ghenea,Serban,['None'],['None']
+237,Giaroli,Luca,['DirectOut'],['None']
+238,Gibbs,Bt,"['Skyline Entertainment and Publishing', 'Tool Shed Studios']","['Morgan Hill, CA, USA', 'Morgan Hill, CA, USA']"
+239,Gibson,Pamela,['None'],['None']
+240,Gill,Dan,['Akai Professional'],"['Cumberland, RI, USA']"
+241,Glass,Jason,['Clean Wireless'],['None']
+242,Glasscock,Brian,['Sennheiser'],['None']
+243,Golokolenko,Oleg,['TU- Ilmenau'],"['Ilmenau, Germany']"
+244,Gonzales,Jocelyn,['None'],['None']
+245,Goodwyn,Peterson,['DIY Recording Equipment'],"['Philadephia, PA, USA']"
+246,Gospodarek,Marta,['New York University'],"['New York, NY, USA']"
+247,Götz,Georg,['Aalto University'],"['Espoo, Finland']"
+248,Graff,Richard,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+249,Graham,Richard,['Delta Sound Labs'],"['Cleveland, OH, USA']"
+250,Grandmaster Flash ,,['None'],['None']
+251,Graves,Michael,['Osiris Studio'],"['Los Angeles, CA, USA']"
+252,Green,Dan,['None'],['None']
+253,Grewe,Yannik,['Fraunhofer IIS'],"['Erlangen, Germany']"
+254,Griesinger,David,['David Griesinger Acoustics'],"['Cambridge, MA, USA']"
+255,Grimm,Eelco,"['HKU University of the Arts', 'Grimm Audio']","['Utrecht, Netherlands', 'Eindhoven, The Netherlands']"
+256,Grond,Florian,['McGill University'],"['Montreal, Canada']"
+257,Guru,Young,['None'],['None']
+258,Halley,Jerome,"['QSC, LLC']","['Costa Mesa, CA, USA']"
+259,Hamdan,Eric,['University of Southampton'],"['Southampton, UK']"
+260,Hammond,Ross,"['University of Derby', 'Peter Mapp Associates']","['Derby, Derbyshire, UK', 'Colchester, UK']"
+261,Harada,Noboru,['NTT Communicatin Science Labs'],"['Atsugi-shi, Kanagawa-ken, Japan']"
+262,Harnack,Kirk,"['Telos Alliance', 'South Seas Broadcasting Corp.']","['Nashville, TN, USA', 'Pago Pago, American Samoa']"
+263,Hawley,Scott,['Belmont University'],"['Nashville, TN, USA']"
+264,Heilemann,Michael,['University of Rochester'],"['Rochester, NY, USA']"
+265,Hendler,Frank,['None'],['None']
+266,Henry,James,['recording engineer/producer and audio educator'],['None']
+267,Herman,Gabe,"['The University of Hartford, The Hartt School']","['Hartford, CT, USA']"
+268,Herre,Jürgen,"['International Audio Laboratories Erlangen', 'Fraunhofer IIS']","['Erlangen, Germany', 'Erlangen, Germany']"
+269,Hickman,Christopher,['Belmont University'],"['Nashville, TN, USA']"
+270,Hildebrand,Andreas,['ALC NetworX GmbH'],"['Munich, Germany']"
+271,Hill,Adam,['University of Derby'],"['Derby, Derbyshire, UK']"
+272,Hockman,Jason,['Birmingham City University'],"['Birmingham, UK']"
+273,Hoerr,Ethan,['Montana State University'],"['Bozeman, MT, USA']"
+274,Hoffa,Bryan,['Library of Congress'],['NAVCC']
+275,Holton,Terry,['AIMS Audio Group Chairman'],['UK']
+276,Hosn,Ricky,['None'],['None']
+277,Howarth,Jamie,['Plangent Processes'],"['Nantucket, MA, USA']"
+278,Hsieh,Pei-Lun,['Ambidio'],"['Glendale, CA, USA']"
+279,Huang,Jie,['University of Aizu'],"['Aizuwakamatsu City, Japan']"
+280,Huart,Warren,['Produce Like a Pro'],['None']
+281,Huber,David,"['Seattle, WA, USA']",['None']
+282,Hughes,Charles,"['Excelsior Audio', 'AFMG']","['Gastonia, NC, USA', 'Berlin, Germany']"
+283,Hughes,Richard,['University of Salford'],"['Salford, Greater Manchester, UK']"
+284,Hughley,Dan,['Focusrite'],"['Los Angeles, CA, USA']"
+285,Hupke,Robert,['Leibniz Universität Hannover'],"['Hannover, Germany']"
+286,Hutt,Steven,['Equity Sound Investments'],"['Bloomington, IN, USA']"
+287,Ifill,Ken,['Jay-Z & Alicia Keys/Erykah Badu/Will Smith'],['None']
+288,Ikenberry,Andrew,['Qu-Bit Electronix'],"['San Clemente, CA, USA']"
+289,Ishimitsu,Shunsuke,['Hiroshima City University'],"['Hiroshima, Japan']"
+290,Itou,Hiroaki,['NTT'],"['Tokyo, Japan']"
+291,Iversen,Niels,"['ICEpower a/s', 'Technical University of Denmark']","['Copenhagen, Denmark', 'Kgs. Lyngby, Denmark']"
+292,Jacks,Ethan,"['Founder, MediaBridge Capital']",['None']
+293,Januszkiewicz,Lukasz,['Zylia Sp. z o.o.'],"['Poznan, Poland']"
+294,Jaspar,Andy,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+295,Jax,Peter,['RWTH Aachen University'],"['Aachen, Germany']"
+296,Jessop,Paul,['County Analytics Ltd'],"['Dunstable, Bedfordshire, UK']"
+297,Johnson,Dale,['University of Huddersfield'],"['Huddersfield, UK']"
+298,Johnson,Joseph,['University of Miami'],"['Coral Gables, FL, USA']"
+299,Johnston,Daniel,['University of York'],"['York, UK']"
+300,Jones,Leslie,"['Recording Engineer and Producer, Director of Music Recording and Scoring, Skywalker Sound']","['San Rafael, CA, USA']"
+301,Jones,Simon,['Focusrite'],"['High Wycombe, Bucks, UK']"
+302,Jordan,Steve,['Steve Jordan Recording'],"['New York, NY, USA']"
+303,Juros,Klara,['AGH University of Science and Technology'],"['Cracow, Poland']"
+304,Kaas,Malle,['Women in Live Music'],['None']
+305,Kaba,Gloria,['Little Underground'],['None']
+306,Kabzinski,Tobias,['RWTH Aachen University'],"['Aachen, Germany']"
+307,Kaczor,Daniel,['AGH University of Science and Technology'],"['Cracow, Poland']"
+308,Kadel,Oliver,"['1.618 Digital', 'University Of West London']","['London, UK', 'London, UK']"
+309,Kadry,Heba,['Heba Kadry Mastering'],"['Brooklyn, NY, USA']"
+310,Kagey,Ian,['Berklee NYC'],"['New York, NY, USA']"
+311,Kahana,Yuvi,['Optoacoustics'],['Israel']
+312,Kahne,David,['None'],['None']
+313,Kákonyi,Balázs,['Harman Professional Solutions'],"['Northridge, CA, USA']"
+314,Kaltheuner,Henning,['d&b audiotechnik GmbH'],"['Backnang, Germany']"
+315,Kamekawa,Toru,['Tokyo University of the Arts'],"['Adachi-ku, Tokyo, Japan']"
+316,Kamisinski,Tadeusz,['AGH University of Science and Technology'],"['Cracow, Poland']"
+317,Kanter,Jason,"['Audio Director, Avalanche Studios']","['New York, NY, USA']"
+318,Kassier,Rafael,['Harman Becker Automotive Systems GmbH.'],"['Karlsbad, Germany']"
+319,Katis,Peter,['Tarquin Studios'],"['Bridgport, CT, USA']"
+320,Kato,Kodai,['Akita Prefectural University'],"['Yurihonjo Akita, Japan']"
+321,Katz,Bob,['Digital Domain Mastering'],"['Orlando, FL, USA']"
+322,Katz,Brian,"[""Sorbonne Université, CNRS, Institut Jean Le Rond d'Alembert""]","['Paris, France']"
+323,Kawahara,Kazuhiko,['Kyushu University'],"['Fukuoka, Japan']"
+324,Kean,John,"['Kean Consultants LLC', 'Cavell Mertz & Associates']","['Washington DC, USA', 'Manassas VA, USA']"
+325,Kearney,Gavin,['University of York'],"['York, UK']"
+326,Keaton,Gimel,['None'],['None']
+327,Keil,Nate,['Rensselaer Polytechnic Institute'],"['Troy, NY, USA']"
+328,Kellaway,Sally,['Microsoft'],"['Seattle, WA, USA']"
+329,Kelly,Jack,['McGill University'],"['Montreal, QC, Canada']"
+330,Kelly,Joe,['Microsoft'],['None']
+331,Kerr,Mac,"['Bedford Hills, NY, USA']",['None']
+332,Keyes,Karrie,['Executive Director SoundGirls.org'],['None']
+333,Khonsaripour,Omid,['Harman International'],"['Northridge, CA, USA']"
+334,Kihiko,Angela,['Spelman College'],"['Atlanta, GA, USA']"
+335,Killen,Kevin,"['New York, NY, USA']",['None']
+336,Killianey,Patrick,['Audinate'],"['Buena Park, CA, USA']"
+337,Kim,Hong,['Gwangju Institute of Science and Tech'],['None']
+338,Kim,Nam,['Gwangju Institute of Science and Technology'],['None']
+339,Kim,Sungyoung,['Rochester Institute of Technology'],"['Rochester, NY, USA']"
+340,Kim,Tae,['Gwangju Institute of Science and Technology'],['None']
+341,Kincaid,Chris,"['Audio Builders Workshop', 'IUPUI']","['Louisville, KY, USA', 'Indianapolis, IN, USA']"
+342,King,Richard,"['McGill University', 'Centre for Interdisciplinary Research in Music Media and Technology']","['Montreal, Quebec, Canada', 'Montreal, Quebec, Canada']"
+343,Kishi,Tomoya,"['CAPCOM Co., Ltd.']",['Japan']
+344,Klapp,Julian,['Fraunhofer IIS'],"['Erlangen, Germany']"
+345,Klasco,Michael,['Menlo Scientific Ltd.'],"['Richmond, CA, USA']"
+346,Klein,Eve,['University of Queensland'],"['Brisbane, Queensland, Australia']"
+347,Klein,Florian,['Technische Universität Ilmenau'],"['Ilmenau, Germany']"
+348,Kline,Gary,"['Kline Consulting Group LLC', 'Kline Consulting Group LLC']","['Atlanta, GA, USA', 'None']"
+349,Ko,Doyuen,['Belmont University'],"['Nashville, TN, USA']"
+350,Kobayashi,Kazunori,['NTT'],"['Tokyo, Japan']"
+351,Kolbrek,Bjørn,['Celestion'],"['Ipswich, UK']"
+352,Kortchmar,Danny,"['Legendary GRAMMY nominated guitarist, songwriter and producer']",['None']
+353,Kosiorek,Alex,"['Central Sound at Arizona PBS', 'Arizona State University']","['Phoenix, AZ, USA', 'Phoenix, AZ, USA']"
+354,Kostiukevych,Ievgen,['European Broadcasting Union'],"['Le Grand-Saconnex, Genéve, Switzerland']"
+355,Koszela,Bob,['Iron Mountain Entertainment Services'],"['Boyers, PA, USA']"
+356,Kovats,Phillip,"['WWS Sound, Sony Interactive Entertainment']",['None']
+357,Kramer,Eddie,['Remark Music Ltd.'],"['Woodland Hills, CA, USA']"
+358,Kramer,Scott,['Netflix'],"['Los Angeles, CA, USA']"
+359,Kraus,Pat,['UMG'],['None']
+360,Krivit,John,"['Professional Audio Design', 'Emerson College']","['Hanover, MA, USA', 'Boston, MA, USA']"
+361,Kronauer,Genio,['L-Acoustics'],"['Marcoussis, France']"
+362,Kubota,Glenn,['Samsung Research America'],"['Valencia, CA, USA']"
+363,Kulhan,Muki,['Muki International'],['UK']
+364,Kusnetz,Sam,['None'],['None']
+365,Kuz,Mike,"['Drake, J. Cole, Offset, Teyana Taylor']",['None']
+366,Kwasneski,Julian,['Bay Area Sound'],['None']
+367,Labrecque,Denis,['DeLab Consulting'],"['Half Moon Bay, CA, USA']"
+368,Lake,Beth,['None'],['None']
+369,Lam,Allison,['Tufts University'],"['Medford, MA, USA']"
+370,LaMacchia,Brewster,['Clockworks Signal Processing LLC'],"['Andover, MA, USA']"
+371,Lamschtein,Cesar,"['Kaps Audio Production Services', 'Mixymaster']","['Montevideo, Uruguay', 'Montevideo, Uruguay']"
+372,Lando,Josh,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+373,Lane,Brandie,"['West Point Band', 'New York University']","['West Point, NY, USA', 'Steinhardt']"
+374,Lanset,Andy,"['Director of Archives, New York Public Radio']",['None']
+375,Larregina,Romina,['WSDG Partner/Project Manager'],['None']
+376,Lave,Morten,['Adamson Systems Engineering'],['None']
+377,Lavoie,Patrice,['Solotech'],['None']
+378,Layer,David,['National Association of Broadcasters'],"['Washington, DC, USA']"
+379,Lazar,James,['Samsung Electronics'],"['Valencia, CA, USA']"
+380,LeBoeuf,Jay,"['Executive Director at Real Industry, Lecturer at Stanford University']",['None']
+381,Lee,Geon,['Gwangju Institute of Science and Technology'],['None']
+382,Lee,Hyunhwan,['University of Miami'],"['Coral Gables, FL, USA']"
+383,Lee,Hyunkook,['University of Huddersfield'],"['Huddersfield, UK']"
+384,Lee,Ming-Lun,['University of Rochester'],"['Rochester, NY, USA']"
+385,Lehrman,Paul,['Tufts University'],"['Medford, MA, USA']"
+386,Leifer,Jim,['American Tower'],"['Boston, MA, USA']"
+387,Leonard,Brett,"['University of Indianapolis', 'The Chelsea Music Festival']","['Indianapolis, IN, USA', 'New York, NY, USA']"
+388,Leslie,Scott,['PD Squared'],['USA']
+389,Levenson,Adam,"['Sr. Dir. of Business Development & Marketing, Waves Audio']","['San Francisco, CA, USA']"
+390,Levin,Igor,['Antelope Audio'],"['New York, NY, USA']"
+391,Li,Xiaodong,"['Chinese Academy of Sciences', 'Chinese Academy of Sciences']","['Beijing, China', 'Shanghai, China']"
+392,Lieberman,Joyce,['None'],['None']
+393,Lindberg,Morten,['2L'],['None']
+394,Liu,Ziyun,['Nanjing University'],"['Nanjing, China']"
+395,Loar,Josh,"['Michigan Technological University', 'The Producers Group']","['Houghton, MI, USA', 'Burbank, CA, USA']"
+396,Loose,John,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+397,Lorbecki,Glenn,['Glenn Sound Inc.'],"['Seattle, WA, USA']"
+398,Lord,Jo,['University of West London'],"['London, UK']"
+399,Lord-Alge,Chris,['Mix LA'],"['Los Angeles, CA, USA']"
+400,Lord-Alge,Tom,['SPANK Studios'],"['South Beach, FL, USA']"
+401,Losada,JC,['Grammy and Latin Grammy Award winning Engineer & Producer'],['None']
+402,Lou,Breakbeat,['Ultimate Breaks and Beats'],['None']
+403,Lu,Lie,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+404,Lu,Xun,"['Power Grid Planning Center, Guandgong Power Grid Company']","['Guangdong, China']"
+405,Ludwig,Bob,"['Gateway Mastering Studios, Inc.']","['Portland, ME, USA']"
+406,Lukin,Alexey,"['iZotope, Inc.']","['Cambridge, MA, USA']"
+407,Lund,Thomas,['Genelec Oy'],"['Iisalmi, Finland']"
+408,Lurssen,Gavin,['Lurssen Mastering'],"['Los Angeles, CA, USA']"
+409,Lysolvanov,Yuri,"['Flashpoint Chicago, a campus of Columbia College Hollywood']","['Chicago, IL, USA']"
+410,MacDonell,Marcus,['University of Waikato'],"['Hamilton, Waikato, New Zealand']"
+411,Macey,Patrick,['PACSYS Limited'],"['Nottingham, UK']"
+412,Maddox,Brian,['None'],['None']
+413,Magalotti,Roberto,['B&C Speakers S.p.A.'],['Bagno a Ripoli']
+414,Maher,Robert,['Montana State University'],"['Bozeman, MT, USA']"
+415,Mailhot,John,['Imagine Communications'],"['Bridgewater, NJ, USA']"
+416,Mäkivirta,Aki,['Genelec Oy'],"['Iisalmi, Finland']"
+417,Malekpour,David,"['Professional Audio Design, Inc.']",['None']
+418,Malone,Karl,['NBC Universal'],"['Stamford, CT, USA']"
+419,Männchen,Andreas,['Fraunhofer Institute for Digital Media Technology IDMT'],"['Ilmenau, Germany']"
+420,Mapp,Peter,['Peter Mapp Associates'],"['Colchester, Essex, UK']"
+421,Mars,Nate,['Electronic Music Collective'],['None']
+422,Marshall,Robert,['Source Elements'],['None']
+423,Martignon,Paolo,['Contralto Audio srl'],"['Casoli, Italy']"
+424,Martin,Bryan,"['McGill University', 'Centre for Interdisciplinary Research in Music Media and Technology']","['Montreal, QC, Canada', 'None']"
+425,Martin,Denis,"['McGill University', 'CIRMMT']","['Montreal, QC, Canada', 'Montreal, QC, Canada']"
+426,Martz,Steve,['THX Ltd.'],"['San Rafael, CA, USA']"
+427,Marui,Atsushi,['Tokyo University of the Arts'],"['Tokyo, Japan']"
+428,Massenburg,George,"['Schulich School of Music, McGill University', 'Centre for Interdisciplinary Research in Music Media and Technology']","['Montreal, Quebec, Canada', 'None']"
+429,Massini,Pietro,['Ask Industries S.p.A.'],['Monte San Vito']
+430,Massy,Sylvia,['Unhinged Industries'],['Ashland']
+431,Masucci,Stephen,['None'],['None']
+432,Mayo,Andres,['Andres Mayo Mastering & Audio Post'],"['Buenos Aires, Argentina']"
+433,Mayo,Paul,['University of Maryland'],"['College Park, MD, USA']"
+434,Mazor,Moshav,['Israel'],['None']
+435,McCarthy,Bob,['Meyer Sound Laboratories'],"['New York, NY, USA']"
+436,McCoy,Brad,['Library of Congress'],"['Culpeper, VA, USA']"
+437,McCoy,R.,"['The Mixtape Museum/Columbia University', 'Hip-Hop Hacks']","['New York, NY, USA', 'The Brooklyn Academy of Music']"
+438,McCreary,Peggy,['None'],['None']
+439,McDonald,Dren,['Facebook'],['None']
+440,McGlynn,Matthew,"['MicParts.com', 'Roswell Pro Audio']","['Sebastopol, CA, USA', 'None']"
+441,Mclane,Paul,['Radio World'],['None']
+442,McLaughlin,Brian,['Harman Professional Solutions'],"['Northridge, CA, USA']"
+443,McMullin,Elisabeth,['Samsung Research America'],['USA']
+444,McNally,Kirk,"['University of Victoria, School of Music']","['Victoria, BC, Canada']"
+445,Mehedi,Md,['Carpenter Technology Corporation'],"['Philadelphia, PA, USA']"
+446,Melon,Manuel,['Le Mans Université'],"['Le Mans cedex 9, France']"
+447,Merchel,Sebastian,['TU Dresden'],"['Dresden, Germany']"
+448,Middlicott,Charles,"['University of Derby', 'Sky Labs Brentwood']","['Derby, UK', 'Essex, UK']"
+449,Millan,Andres,['Diffusion Magazine'],['Boutique Pro Audio']
+450,Miller,Ryan,['Belmont University'],"['Nashville, TN, USA']"
+451,Mimilakis,Stylianos,['Fraunhofer Institute for Digital Media Technology'],['None']
+452,Mincieli,Ann,['Jungle City Studios'],"['New York, NY, USA']"
+453,Missall,David,['None'],['None']
+454,Moffat,Dave,['Queen Mary University of London'],"['London, UK']"
+455,Montignies,François,['L-Acoustics'],"['Marcoussis, France']"
+456,Moore,Robin,['BBC Research & Development'],"['Salford, UK']"
+457,Morelli,Andrew,['Steady State Fate'],['None']
+458,Moskowitz,Len,['Core Sound LLC'],"['Teaneck, NJ, USA']"
+459,Moulin,Samuel,['L-Acoustics'],"['Marcoussis, France']"
+460,Moulson,Aimee,['University of Huddersfield'],"['Huddersfield, UK']"
+461,Mourgela,Angeliki,['Queen Mary University of London'],"['London, UK']"
+462,Müller,Clemens,['Technical University of Ilmenau'],"['Ilmenau, Germany']"
+463,Muniz,Robert,['Harmonic Power Conversion LLC'],"['Douglas, MA, USA']"
+464,Murphy,Damian,['University of York'],"['York, UK']"
+465,Murphy,David,['Krix Loudspeakers'],"['Henley Beach, South Australia, Australia']"
+466,Murtaza,Adrian,['Fraunhofer Institute for Integrated Circuits IIS'],"['Erlangen, Germany']"
+467,Muscatello,Martin,['360 Music Lab'],['None']
+468,Nakahara,Masataka,"['ONFUTURE Ltd.', 'SONA Corp.']","['Tokyo, Japan', 'Tokyo, Japan']"
+469,Nakra,Teresa,"['The College of New Jersey', 'Immersion Music, Inc.']","['Trenton, NJ, USA', 'None']"
+470,Nemer,Elias,['XPERI/DTS'],"['Calabasas, CA, USA']"
+471,Nemoto,Takahiro,['University of Aizu'],"['Aizuwakamatsu, Japan']"
+472,Neubauer,Petr,['Academy of Performing Arts in Prague'],"['Prague, Czech Republic']"
+473,Nguyen,Nguyen,['University of Miami'],"['Coral Gables, FL, USA']"
+474,Nguyen,Sarah,['Metro'],['None']
+475,Nice,DJ,['None'],['None']
+476,Nichols,Matt,['Facebook'],['None']
+477,Nie,Yafei,"['Institute of Acoustics, Chinese Academy of Sciences']","['Beijing, China']"
+478,Niedermeier,Andreas,['Fraunhofer Institute for Integrated Circuits IIS'],"['Erlangen, Germany']"
+479,Niekiel,Florian,['Fraunhofer Institute for Silicon Technology ISIT'],"['Itzehoe, Germany']"
+480,Nimkin,Benjamin,['independent sound designer'],"['New York, NY, USA']"
+481,Nipkow,Lasse,['Silent Work LLC'],"['Zurich, Switzerland']"
+482,Nishiguchi,Masayuki,['Akita Prefectural University'],"['Yurihonjo Akita, Japan']"
+483,Noguchi,Ken'ichi,['NTT Service Evolution Laboratories'],"['Yokosuka, Japan']"
+484,Nophut,Marcel,['Leibniz Universität Hannover'],"['Hannover, Germany']"
+485,Norton,Alan,['Ford Motor Company'],['None']
+486,Noy,Dirk,['WSDG'],"['Basel, Switzerland']"
+487,Núñez-Solano,Daniel,['University of Las Américas'],"['Quito, Ecuador']"
+488,O'Donnell,Dave,['Mixer/Engineer'],['None']
+489,Ogihara,Mitsunori,['University of Miami'],"['Coral Gables, FL, USA']"
+490,Olive,Sean,['Harman International'],"['Northridge, CA, USA']"
+491,Olivier,Emmanuelle,['CNRS Centre Georg Simmel'],['None']
+492,Olson,Bruce,"['Olson Sound Design, LLC', 'AFMG Services North America, LLC']","['Minneapolis, MN, USA', 'Minneapolis, MN, USA']"
+493,Oramus,Tomas,['Academy of Performing Arts in Prague'],"['Prague, Czech Republic']"
+494,Orban,Robert,['Orban Labs Inc.'],"['Pennsauken, NJ, USA']"
+495,Orcioni,Simone,['Universita Politecnica delle Marche'],"['Ancona, Italy']"
+496,Ordóñez-Andrade,Cristian,['University of Las Américas'],"['Quito, Ecuador']"
+497,Ornellas,Jason,['Bonneville International'],"['Sacramento, CA, USA']"
+498,Ortolani,Nicola,['Università Politecnica delle Marche'],['Ancona']
+499,Ottenritter,Cheryl,['Ott House Audio'],"['Silver Spring, MD, USA']"
+500,Panzer,Joerg,['R&D Team'],"['Salgen, Germany']"
+501,Pappachan Kannookadan,Tyson,['TU- Ilmenau'],"['Ilmenau, Germany']"
+502,Paradis,Matthew,['BBC Research and Development'],"['London, UK']"
+503,Park,Inyoung,['Gwangju Institute of Science and Technology'],['None']
+504,Park,Munhum,"[""King Mongkut's Institute of Technology Ladkrabang""]","['Bangkok, Thailand']"
+505,Parmentier,Matthieu,['francetélévisions'],"['Paris, France']"
+506,Paschal,Chiquita,"['Uncivil, Another Round']",['None']
+507,Patricio,Eduardo,['Zylia Sp. z o.o.'],"['Poznan, Poland']"
+508,Pawelski,Cheryl,['Omnivore Records'],['None']
+509,Payne,Piper,"['Piper Payne, Mastering Engineer, Infrasonic Sound']","['San Francisco Bay Area, CA']"
+510,Pearson,Tony,['North Carolina State University'],['None']
+511,Pearson-Adams,Michael,['Waves'],"['Knoxville, TN, USA']"
+512,Peissig,Jürgen,['Leibniz Universität Hannover'],"['Hannover, Germany']"
+513,Peng,Renhua,['Chinese Academy of Sciences'],"['Beijing, China']"
+514,Penny,Greg,['None'],['None']
+515,Perla,Julia,['Belmont University'],"['Nashville, TN, USA']"
+516,Perlin,Ken,['New York University'],"['New York, NY, USA']"
+517,Peters,Nils,"['Qualcomm, Advanced Tech R&D']","['San Diego, CA, USA']"
+518,Petersen,Lars,['ICEpower A/S'],"['Søborg, Denmark']"
+519,Pettinato,Michelle,"['Sound Engineer- Elvis Costello', 'MixingMusicLive.com']","['Scranton, PA USA', 'None']"
+520,Petty,Mark,['Gearbox Software'],['None']
+521,Philbert,Steve,['University of Rochester'],"['Rochester, NY, USA']"
+522,Phillips,Cassidy,['Imagine Communications'],"['Plano, TX, USA']"
+523,Phillips,Jonathan,['University of Southhampton'],"['Southampton, UK']"
+524,Piazza,Francesco,['Universitá Politecnica della Marche'],['Ancona']
+525,Picotte,Mike,['Producer Engineer Sweetwater Sound'],"['Fort Wayne, IN, USA']"
+526,Pike,Chris,"['BBC Research and Development', 'University of York']","['Salford, UK', 'York, UK']"
+527,Pines,Jonathan,"['Rupert Neve Designs', 'sE Electronics']","['Wimberley, TX, USA', 'None']"
+528,Piotrowska,Magdalena,"['Gdansk University of Technology', 'Hear Candy Mastering']","['Poland', 'Poland']"
+529,Pizzi,Skip,['NAB'],"['Washington DC, USA']"
+530,Plantier,Guy,['LAUM'],"['Les Mans, France']"
+531,Pollock,Jamie,['Kore Audio Design LLC'],['None']
+532,Ponteggia,Daniele,['Audiomatica Srl'],"['Firenze, Italy']"
+533,Porter,Brett,['Art+Logic'],"['Fanwood, NJ, USA']"
+534,Powell,Vance,['Global Positioning Services'],"['New York, NY, USA']"
+535,Power,Bob,['None'],['None']
+536,Pras,Amandine,"['Digital Audio Arts', 'School for Advanced Studies in the Social Sciences']","['University of Lethbridge', 'Paris, France']"
+537,Preihs,Stephan,['Leibniz Universität Hannover'],"['Hannover, Germany']"
+538,Pretolesi,Luca,['Studio DMI'],"['Las Vegas, NV, USA']"
+539,Pribble,Kelly,['Iron Mountain Entertainment Services'],"['Moonachie, New Jersey, USA']"
+540,Price,Howard,['None'],['None']
+541,Profeta,Renato,['Ilmenau University of Technology'],"['Ilmenau, Germany']"
+542,Proper,Darcy,['Darcy Proper Mastering at Valhalla Studios'],"['Auburn, NY, USA']"
+543,Psaroudakis,Alex,['Alex Psaroudakis Mastering'],"['Brooklyn, NY, USA']"
+544,Puig,Jack,['Record Executive/Producer/Mixer'],"['Hollywood, CA, USA']"
+545,Pulkki,Ville,['Aalto University'],"['Espoo, Finland']"
+546,Puyana-Romero,Virginia,['University of Las Américas'],"['Quito, Ecuador']"
+547,Pye,Dan,['Harman International'],"['Northridge, CA, USA']"
+548,Quiroz Orozco,Diego,['McGill University'],"['Montreal, QC, Canada']"
+549,Rafter,Heather,['RafterMarsh US'],"['San Francisco, CA, USA']"
+550,Rawoof,Shanavaz,['TU Dresden'],"['Dresden, Germany']"
+551,Rayner,Andy,['Nevion'],['None']
+552,Ready,Brian,['CP Communications'],['None']
+553,Reams,Robert,['Psy'],['None']
+554,Reid,Joseph,['Perkins Coie'],"['San Diego, CA, USA']"
+555,Reid,Wisam,['Harvard Medical School'],['None']
+556,Reiss,Joshua,['Queen Mary University of London'],"['London, UK']"
+557,Ren,Gang,['University of Miami'],"['Coral Gables, FL, USA']"
+558,Richardson,Sean,['Starz Entertainment'],"['Denver, CO, USA']"
+559,Robbins,Grey,['Facebook'],['None']
+560,Roessner,Stephen,['University of Rochester'],"['Rochester, NY, USA']"
+561,Rogers,Susan,['Berklee College of Music'],"['Boston, MA, USA']"
+562,Roginska,Agnieszka,['New York University'],"['New York, NY, USA']"
+563,Romanowski,Michael,"['Coast Mastering', 'The Tape Project']","['Berkeley, CA, USA', 'None']"
+564,Rosenthal,David,['Musical Director'],"['New York, NY, USA']"
+565,Rosenthal,Steve,['MARS'],['None']
+566,Rossum,David,"['Rossum Electro-Music LLC', 'Universal Audio, Inc']","['Santa Cruz, CA, USA', 'Scotts Valley, CA  USA']"
+567,Roundy,Andrew,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+568,Rudzki,Tomasz,['University of York'],"['York, UK']"
+569,Rumery,Ryan,"['Sounddesigner & Composer, Pen o Three']","['Brooklyn, NY, USA']"
+570,Russon,Laura,['BBC Studios'],"['Cardiff, Wales, UK']"
+571,Rutledge,Jack,['None'],['None']
+572,Ryan,Timothy,['Webster University'],['None']
+573,Sahara,Tom,"['Turner Sports Vice President, Operations and Technology, Turner Sports']","['Atlanta, GA, USA']"
+574,Saito,Aya,['University of Aizu'],"['Aizuwakamatsu City, Japan']"
+575,Saji,Akira,['University of Aizu'],"['Aizuwakamatsu City, Japan']"
+576,Sakamoto,Shuichi,['Tohoku University'],"['Sendai, Japan']"
+577,Sallem,Nizar,['Mentor Graphics'],"['Mountain View, CA, USA']"
+578,Sanchez,Caroline,"['Saturday Night Live, Good Morning America']","['Brooklyn, NY, USA']"
+579,Sandler,Mark,['Queen Mary University of London'],"['London, UK']"
+580,Sang,Jinqiu,['Chinese Academy of Sciences'],"['Beijing, China']"
+581,Sardina,Rafa,"['Fishbone Productions, Inc.', 'AfterHours Studios']","['Los Angeles, CA, USA', 'Los Angeles, CA, USA']"
+582,Sawaguchi,Mick,['Mick Sound Lab'],"['Tokyo, Japan']"
+583,Schaller,Thilo,['SUNY Buffalo State'],"['Buffalo, NY, USA']"
+584,Schlett,Daniel,['Strange Weather Studio'],"['Brooklyn, NY, USA']"
+585,Schmidt,Konstantin,['Friedrich-Alexander-University'],['None']
+586,Schmidt Horning,Susan,"[""St. John's University""]",['None']
+587,Schuller,Gerald,"['Ilmenau University of Technology', 'Fraunhofer Institute for Digital Media technology']","['IImenau, Germany', 'None']"
+588,Schwartz,Molly,['None'],['None']
+589,Schwenke,Roger,['Meyer Sound Laboratories'],"['Berkeley, CA, USA']"
+590,Scott,Jonathan,['University of Waikato'],"['Hamilton, Waikato, New Zealand']"
+591,Scott,Ken,['Leeds Beckett University'],"['Leeds, UK']"
+592,Seay,Toby,['Drexel University'],"['Philadelphia, PA, USA']"
+593,Seefeldt,Alan,['Dolby Labs'],"['San Francisco, CA, USA']"
+594,Seegull,Rick,['Riedel Communications'],"['Burbank, CA, USA']"
+595,Segerstrom,Eric,['Rensselaer Polytechnic Institute'],"['Troy, NY, USA']"
+596,Selfon,Scott,"['Audio Experiences Lead, Facebook Reality Labs']",['None']
+597,Seligman,Gerald,['None'],['None']
+598,Settel,Zack,['University of Montreal'],"['Montreal, Quebec, Canada']"
+599,Shabalina,Elena,['d&b audiotechnik'],"['Backnang, Germany']"
+600,Shaw,Haley,['Gimlet Media'],"['Brooklyn, NY, USA']"
+601,Shen,Yong,['Nanjing University'],"['Nanjing, Jiangsu Province, China']"
+602,Shirley,Ben,"['University of Salford', 'Salsa Sound Ltd']","['Salford, Greater Manchester, UK', 'Salford, Greater Manchester, UK']"
+603,Shively,Roger,"['JJR Acoustics, LLC']","['Seattle, WA, USA']"
+604,Shocklee,Hank,['Shocklee Entertainment'],"['New York, NY, USA']"
+605,Shultis,Steve,"['Chief Technology Officer, New York Public Radio']","['New York, NY, USA']"
+606,Sickler,Don,['Second Floor Music'],"['New York, NY, USA']"
+607,Sickler,Maureen,['Second Floor Music'],"['New York, NY, USA']"
+608,Sierra,Juan,"['Stanford University', 'Meyer Sound Laboratories']","['Stanford, CA, USA', 'Berkeley, CA, USA']"
+609,Sikora,Greg,['Harman International'],"['Munich, Germany']"
+610,Silva F.,Camilo,['Camilo Silva F. Mastering'],"['Chia, Cundinamarca, Colombia']"
+611,Sim,Keegan,['Hong Kong University of Science and Technology'],"['Clean Water Bay, Hong Kong']"
+612,Simon,Adèle,['Bang & Olufsen a/s'],"['Struer, Denmark']"
+613,Simon,Greg,['Sennheiser'],['None']
+614,Simon,Marcos,"['AudioScenic', 'University of Southampton']","['Southampton UK', 'Southampton, UK']"
+615,Sinterniklaas,Michael,"['President, NYAV Post']",['None']
+616,Skare,Travis,"['CCRMA, Stanford University']","['Stanford, CA, USA']"
+617,Skrok,Mateusz,['Zylia Sp. z o.o.'],"['Poznan, Poland']"
+618,Sloma,Ulrike,['Technische Universität Ilmenau'],"['Ilmenau, Germany']"
+619,Smith,Ebonie,['Atlantic Records/Hamilton Cast Album'],['None']
+620,Smith,III,['Stanford University'],"['Stanford, CA, USA']"
+621,Smith,Mike,"['MainStreaming, Inc.']","['San Francisco, CA, USA']"
+622,Smith,Sarah,['University of Rochester'],"['Rochester, NY, USA']"
+623,Smithers,Michael,"['Dolby Laboratories, Inc.']","['Sydney, NSW, Australia']"
+624,Smolen,Christopher,"['QSC, LLC']","['Costa Mesa, CA, USA']"
+625,Smyth,Tamara,"['University of California, San Diego']","['San Diego, CA, USA']"
+626,Snider,Ross,"['Montana State University', 'Flat Earth Inc.']","['Bozeman, MT, USA', 'Bozeman, MT, USA']"
+627,Snoman,Rick,['Altar Recording Studios'],"['Manchester, UK']"
+628,Sobrero,Dustin,['Flat Earth Inc.'],"['Bozeman, MT, USA']"
+629,Someya,Kazutaka,"['beBlue Co., Ltd.']","['Tokyo, Japan']"
+630,Songmuang,Parichat,['New York University'],"['New York, NY, USA']"
+631,Sousa,Samuel,['Triton Digital'],"['Montreal, QC, Canada']"
+632,Spencer,Cody,['None'],['None']
+633,Spencer,Derek,['GRAMMY Museum'],['None']
+634,Sporer,Thomas,['Fraunhofer Institute for Digital Media Technology IDMT'],"['Ilmenau, Germany']"
+635,Springer,Carla,['None'],['None']
+636,Sridhar,Sripathi,['New York University'],"['New York, NY, USA']"
+637,St. Hilaire,Rick,['None'],['None']
+638,Stables,Ryan,['Birmingham City University'],"['Birmingham, UK']"
+639,Stagnitto,Jim,"['Director of Engineering, New York Public Radio']",['None']
+640,Starzynski,Jim,"['NBCUniversal', 'ATSC Group']","['New York, NY, USA', 'Washington D.C.']"
+641,Stevens,Jesse,['L-Acoustics'],['None']
+642,Stiles,Mirek,['Abbey Road Studios'],"['London, UK']"
+643,Stoffo,James,['Independent'],"['Key West, FL, USA']"
+644,Stoppel,Fabian,['Fraunhofer Institute for Silicon Technology ISIT'],"['Itzehoe, Germany']"
+645,Storkson,William,['Bay Area Sound'],['None']
+646,Storyk,John,['Walters-Storyk Design Group'],"['Highland, NY, USA']"
+647,Strawn,John,"['S Systems, Inc.']","['Larkspur, CA, USA']"
+648,Struck,Christopher,"['CJS Labs', 'Acoustical Society of America']","['San Francisco, CA, USA', 'None']"
+649,Stuckey,Cameron,['Firehouse Productions'],"['New York, NY, USA']"
+650,Sugden,Scott,['L-Acoustics'],"['Oxnard, CA, USA']"
+651,Sunder,Kaushik,['Embody VR'],"['Mountain View, CA, USA']"
+652,Swanson,Michael,['None'],['None']
+653,Swedlow,Nathan,"['Dolby Laboratories, Inc.']","['San Francisco, CA, USA']"
+654,Sweidan,Rami,['University of Stuttgart'],"['Stuttgart, Germany']"
+655,Tabron,Chris,['None'],['None']
+656,Taggart,Emily,['None'],['None']
+657,Tajima,Toshiki,['Kyushu University'],"['Fukuoka, Japan']"
+658,Takane,Shouichi,['Akita Prefectural University'],"['Yurihonjo, Akita, Japan']"
+659,Tarr,Eric,['Belmont University'],"['Nashville, TN, USA']"
+660,Taylor,Noah,"['Staff Sergeant, United States Military Academy Band']","['West Point, NY, USA']"
+661,Tehranchi,Babak,['Perkins Coie'],"['San Diego, CA, USA']"
+662,Temme,Steve,"['Listen, Inc.']","['Boston, MA, USA']"
+663,Terenzi,Alessandro,['Universita Politecnica delle Marche'],"['Ancona, Italy']"
+664,Terry,Kent,['Dolby Laboratories Inc.'],"['San Francisco, CA, USA']"
+665,Thalmann,Florian,['Queen Mary University of London'],"['London, UK']"
+666,Thibodeau,David,['Analog Devices'],"['Wilmington, MA, USA']"
+667,Thomas,Nate,['University of Lethbridge'],"['Lethbridge, AB, Canada']"
+668,Thompson,Austin,"['Technical Director, Gimlet Media']","['Brooklyn, NY, USA']"
+669,Thompson,Jamie,['None'],['None']
+670,Thompson,Jeff,['XPERI/DTS'],"['Calabasas, CA, USA']"
+671,Thompson,Jessica,['Jessica Thompson Audio'],"['Berkeley, CA, USA']"
+672,Thompson,Paul,['Leeds Beckett University'],"['Leeds, West Yorkshire, UK']"
+673,Toosy,Fesal,['University of Central Punjab'],"['Lahore, Pakistan']"
+674,Tornieri,Christophe,['Audiokinetic'],['None']
+675,Torres,Simone,['Vocal Producer and Multi Platinum Engineer'],['None']
+676,Traynham,Daisey,['Art+Logic'],"['Pasadena, CA, USA']"
+677,Trenda,Gary,['Professional Wireless Systems'],"['Orlando, FL, USA']"
+678,Trumfio,Dave,['Gold-Diggers Sound'],"['Los Angeles, CA, USA']"
+679,Tsui,Benjamin,['University of York'],"['York, UK']"
+680,Tucker,April,['None'],['None']
+681,Turner,Kierian,['University of Lethbridge'],"['Lethbridge, AB, Canada']"
+682,Tyler,Valerie,['College of San Mateo'],"['San Mateo, CA, USA']"
+683,Vad,Jack,['San Francisco Symphony'],"['San Francisco, CA, USA']"
+684,van de Par,Steven,['University of Oldenburg'],"['Oldenburg, Germany']"
+685,van Veen,Merlijn,['Meyer Sound Laboratories'],"['Berkeley, CA, USA']"
+686,Vannoy,Trevor,"['Montana State University', 'Flat Earth Inc.']","['Bozeman, MT, USA', 'Bozeman, MT, USA']"
+687,Vaucher,Remi,['QSC'],"['Costa Mesa, CA, USA']"
+688,Vericolli,Catherine,"['Fivethirteen Recording', 'Useful Industries']","['Tempe, AZ, USA', 'Nashville, TN, USA']"
+689,Verna,Paul,['None'],['None']
+690,Vindrola,Lucas,"['LAUM', 'PSA Group']","['Les Mans, France', 'Rueil-Malmaison, France']"
+691,Visconti,Tony,[''],['None']
+692,Voishvillo,Alexander,['JBL/Harman Professional Solutions'],"['Northridge, CA, USA']"
+693,Wagner,Bernhard,['Fraunhofer Institute for Silicon Technology ISIT'],"['Itzehoe, Germany']"
+694,Wallace,Andy,['Recording engineer'],['USA']
+695,Walther,Andreas,['Fraunhofer Institute for Integrated Circuits IIS'],"['Erlangen, Germany']"
+696,Wan,Yuxuan,['Hong Kong University of Science and Technology'],"['Clean Water Bay, Hong Kong']"
+697,Wang,Dunze,['Guangzhou University'],"['Guangzhou, China']"
+698,Wang,Jie,['Guangzhou University'],"['Guangzhou, China']"
+699,Wang,Yuxiang,['University of Rochester'],"['Rochester, NY, USA']"
+700,Wang,Zhongran,"['Samsung Research America, Audio Lab']","['Valencia, CA, USA']"
+701,Ward,Lauren,"['University of Salford', 'BBC Research and Development']","['Salford, UK', 'Salford, UK']"
+702,Wardle,Andy,['University of the Highlands & Islands'],"['Perth, UK']"
+703,Warrington,Patrick,['Lawo AG'],['Germany']
+704,Watanabe,Kanji,['Akita Prefectural University'],"['Yurihonjo Akita, Japan']"
+705,Waters,Drew,['VEVA Sound'],['None']
+706,Way,Dave,['None'],['None']
+707,Weaver,James,['Queen Mary University of London'],"['London, UK']"
+708,Weaver,Sarah,"['NowNet Arts, Inc.']",['None']
+709,Weiss-Berman,Jenna,['Pineapple Street Media'],"['Brooklyn, NY, USA']"
+710,Welti,Todd,['Harman International Inc.'],"['Northridge, CA, USA']"
+711,Werner,Stephan,['Technische Universität Ilmenau'],"['Ilmenau, Germany']"
+712,Wetzell,Ethan,['OCA Alliance'],"['New York, NY, USA']"
+713,Wharton,Peter,"['Happy Robotz', 'SMPTE']","['Washington D.C., USA', 'None']"
+714,Whitlock,Bill,['Whitlock Consulting'],"['Ventura, CA, USA']"
+715,Whitmore,Eloise,['Naked Productions'],"['Manchester, UK']"
+716,Whynot,John,['Berklee College of Music'],"['Los Angeles, CA, USA']"
+717,Wiggins,Bruce,['University of Derby'],"['Derby, Derbyshire, UK']"
+718,Wigley,Emily,"['Acoustical Engineer, Shure Inc.']","['Chicago, IL, USA']"
+719,Wilder,Mark,['None'],['None']
+720,Wilk,Emma,['None'],['None']
+721,Willens,Jeff,['New York Public Library'],"['New York, NY, USA']"
+722,Williams,Jett,['None'],['None']
+723,Wilmer,Alex,['Wilmer Sound'],"['San Francisco, CA, USA']"
+724,Wilmer,Sae,"['Co-Founder & COO, Wilmer Sound']",['None']
+725,Wilmering,Thomas,"['Queen Mary University of London', 'Centre for Digital Music']","['London, UK', 'None']"
+726,Winkler,Karl,['Lectrosonics'],"['Rio Rancho, NM, USA']"
+727,Winston,Terri,"[""Women's Audio Mission""]","['San Francisco, CA, USA']"
+728,Wisland,Mike,['Utah Valley University'],"['Orem, UT, USA']"
+729,Wittek,Helmut,['SCHOEPS Mikrofone GmbH'],"['Karlsruhe, Germany']"
+730,Womack,Paul,['Willie Green Music'],"['Brooklyn, NY, USA']"
+731,Woodcock,James,['University of Salford'],"['Salford, UK']"
+732,Woszczyk,Wieslaw,['McGill University'],"['Montreal, QC, Canada']"
+733,Wright,Bobby,['Hampton University'],['None']
+734,Wu,Jiayue,['University of Colorado Denver'],"['Denver, CO, USA']"
+735,Wu,Lijia,['Hong Kong University of Science and Technology'],"['Hong Kong, Chian']"
+736,Wyner,Jonathan,"['M Works Studios/iZotope/Berklee College of Music', 'M Works Mastering']","['Boston, MA, USA', 'None']"
+737,Yang,Hyunjoung,['McGill University'],"['Montréal, QC, Canada']"
+738,Yazawa,Sakurako,['NTT'],"['Tokyo, Japan']"
+739,Yoneya,Akihiko,['Nagoya Institute of Technology'],"['Nagoya, Aichi-pref., Japan']"
+740,Yu,Pei,['Nanjing University'],"['Nanjing, China']"
+741,Zagala,Franck,"['Institute d’Alembert, Group Lutheries—Acoustique-Musique']","['Paris, France']"
+742,Zalles,Gabriel,"['University of California, San Diego']","['La Jolla, CA, USA']"
+743,Zenker,Benjamin,"['Technical University Dresden', 'Hommbru GmbH']","['Dresden, Germany', 'Reichenbach, Germany']"
+744,Zernicki,Tomasz,['Zylia sp. z o.o.'],"['Poznan, Poland']"
+745,Zhang,Kathleen,['New York University'],"['New York, NY, USA']"
+746,Zhang,Shufeng,['Nanjing University'],"['Nanjing, China']"
+747,Zheng,Chengshi,"['Institute of Acoustics, Chinese Academy of Sciences']","['Beijing, China']"
+748,Ziemba,Mark,['Panasonic Automotive'],"['Livonia, MI, USA']"
+749,Zumwalt,Kelly,['None'],['None']
+750,Zúñiga,Jorge,['Queen Mary University of London'],"['London, UK']"
+751,Zwicker,Lucas,['Lawo AG'],['None']
